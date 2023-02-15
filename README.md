@@ -5,10 +5,6 @@
 - 📖 Email para contato: raphaelrogen@gmail.com. 
 - 🎥 Amante de cinema.
 
-<div> 
-<img> height="180em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fkiuicha%2Fstatus%2F1178125947159093250%3Flang%3Dzh-Hant&psig=AOvVaw3rtOlTdgzTerTRALc8d-DQ&ust=1676567592349000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCqhpCDmP0CFQAAAAAdAAAAABAI"
-</div>
-
 <a href="https://github.com/RaphaelPach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelpach&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpach&layout=compact&langs_count=7&theme=codeSTACKr"/>
