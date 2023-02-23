@@ -6,7 +6,7 @@
 - 🎥 Amante de cinema.
 
 <div>
-  <img height="400em" align="right" src="https://i.pinimg.com/564x/33/09/ff/3309ff782f3317ac676e9d37a3cc5f24.jpg"/>
+  <img height="350em" align="right" src="https://i.pinimg.com/564x/33/09/ff/3309ff782f3317ac676e9d37a3cc5f24.jpg"/>
 <a href="https://github.com/RaphaelPach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelpach&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpach&layout=compact&langs_count=7&theme=codeSTACKr"/>
