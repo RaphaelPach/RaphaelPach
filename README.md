@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Raphael Pacheco 🌌
 
-- 🚀 Hoje eu sou Estudante de Desenvolvimento Web na Trybe.
-- 👾 Atualmente estudando Back-end.
+- 🚀 Coda Fofo.
+- 👾 Desenvolvedor.
 - 📖 Email para contato: raphaelrogen@gmail.com. 
 - 🎥 Amante de cinema.
 
